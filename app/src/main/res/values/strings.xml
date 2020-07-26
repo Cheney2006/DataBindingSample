@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingSample</string>
+    <string name="username">当前用户姓名%1$s</string>
+</resources>
